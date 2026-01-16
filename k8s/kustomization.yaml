@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: dimitridiaz/gitopsfc
-  newTag: 69dec6e711d58210ed57ee30610ad1f3e0bba476
+  newTag: 71544b31475b93c25b7d3ed51776da3b65cb4022
